@@ -1,3 +1,8 @@
 Cold and dry, but everything is my favourite color. 
+<<<<<<< HEAD
 The two moon may be a problem for Wolfman
 Changes are not always good. 
+=======
+The two moon may be a problem for Catwoman.
+The two moons make Wolfman invincible. 
+>>>>>>> 17d5d7b1a06f622dc47091b47ad202909a4f6655
